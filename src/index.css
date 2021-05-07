@@ -417,7 +417,7 @@ Cocktail
   height: 100px;
   align-items: center;
   height: 4rem;
-  background-color: rgb(173, 200, 160);
+  background-color: red;
   box-shadow: 4px 4px 10px #00aa2c;
 }
 .nav-links {
